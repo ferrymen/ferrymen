@@ -1,0 +1,7 @@
+-u tdd
+--colors
+--reporter spec
+--bail
+--check-leaks
+-r test/support/setup.ts
+-r ts-node/register
